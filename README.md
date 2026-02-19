@@ -35,7 +35,7 @@ Testing the C Program for the desired output.
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
-
+```
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
@@ -88,7 +88,7 @@ int main() {
 }
 
 
-
+```
 
 ## OUTPUT
 <img width="918" height="270" alt="Screenshot from 2026-02-19 08-42-24" src="https://github.com/user-attachments/assets/6fbc9ac3-146b-4bba-9e3a-3e17f5708055" />
